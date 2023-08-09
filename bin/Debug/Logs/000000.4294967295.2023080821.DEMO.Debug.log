@@ -1,0 +1,487 @@
+2023-08-08 21:00:16.2362  test
+2023-08-08 21:00:16.2556 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:00:18.3312  Begin context handling
+2023-08-08 21:00:18.3312 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:00:18.3312 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:00:18.3312  End context handling
+2023-08-08 21:00:23.9692  Begin context handling
+2023-08-08 21:00:23.9698  End context handling
+2023-08-08 21:01:00.3430  Begin context handling
+2023-08-08 21:01:00.3430  End context handling
+2023-08-08 21:02:49.0430  test
+2023-08-08 21:02:49.0607 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:02:50.3391  Begin context handling
+2023-08-08 21:02:50.3391 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:02:50.3391 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:02:50.3391  End context handling
+2023-08-08 21:02:51.8172  Begin context handling
+2023-08-08 21:02:51.8172 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:02:51.8172 (ETTask.cs:145) 当前线程 1 loop 2 Before Task.Yield
+2023-08-08 21:02:51.8172  End context handling
+2023-08-08 21:02:54.9506  Begin context handling
+2023-08-08 21:02:54.9506 (ETTask.cs:145) 当前线程 1 loop 2 After Task.Yield
+2023-08-08 21:02:54.9506 (ETTask.cs:145) 当前线程 1 loop 3 Before Task.Yield
+2023-08-08 21:02:54.9506  End context handling
+2023-08-08 21:02:57.1593  Begin context handling
+2023-08-08 21:02:57.1593 (ETTask.cs:145) 当前线程 1 loop 3 After Task.Yield
+2023-08-08 21:02:57.1593 (ETTask.cs:145) 当前线程 1 loop 4 Before Task.Yield
+2023-08-08 21:02:57.1593  End context handling
+2023-08-08 21:02:59.0878  Begin context handling
+2023-08-08 21:02:59.0878 (ETTask.cs:145) 当前线程 1 loop 4 After Task.Yield
+2023-08-08 21:02:59.0878 (ETTask.cs:145) 当前线程 1 loop 5 Before Task.Yield
+2023-08-08 21:02:59.0878  End context handling
+2023-08-08 21:02:59.9247  Begin context handling
+2023-08-08 21:02:59.9247 (ETTask.cs:145) 当前线程 1 loop 5 After Task.Yield
+2023-08-08 21:02:59.9247 (ETTask.cs:145) 当前线程 1 loop 6 Before Task.Yield
+2023-08-08 21:02:59.9247  End context handling
+2023-08-08 21:03:00.8062  Begin context handling
+2023-08-08 21:03:00.8062 (ETTask.cs:145) 当前线程 1 loop 6 After Task.Yield
+2023-08-08 21:03:00.8062 (ETTask.cs:145) 当前线程 1 loop 7 Before Task.Yield
+2023-08-08 21:03:00.8062  End context handling
+2023-08-08 21:03:01.6368  Begin context handling
+2023-08-08 21:03:01.6368 (ETTask.cs:145) 当前线程 1 loop 7 After Task.Yield
+2023-08-08 21:03:01.6368 (ETTask.cs:145) 当前线程 1 loop 8 Before Task.Yield
+2023-08-08 21:03:01.6368  End context handling
+2023-08-08 21:03:02.4435  Begin context handling
+2023-08-08 21:03:02.4435 (ETTask.cs:145) 当前线程 1 loop 8 After Task.Yield
+2023-08-08 21:03:02.4435 (ETTask.cs:145) 当前线程 1 loop 9 Before Task.Yield
+2023-08-08 21:03:02.4435  End context handling
+2023-08-08 21:03:03.4957  Begin context handling
+2023-08-08 21:03:03.4957 (ETTask.cs:145) 当前线程 1 loop 9 After Task.Yield
+2023-08-08 21:03:03.4957 (ETTask.cs:145) 当前线程 1 loop 10 Before Task.Yield
+2023-08-08 21:03:03.4957  End context handling
+2023-08-08 21:03:04.4460  Begin context handling
+2023-08-08 21:03:04.4460 (ETTask.cs:145) 当前线程 1 loop 10 After Task.Yield
+2023-08-08 21:03:04.4460 (ETTask.cs:145) 当前线程 1 loop 11 Before Task.Yield
+2023-08-08 21:03:04.4460  End context handling
+2023-08-08 21:03:09.3689  Begin context handling
+2023-08-08 21:03:09.3689 (ETTask.cs:145) 当前线程 1 loop 11 After Task.Yield
+2023-08-08 21:03:09.3689 (ETTask.cs:145) 当前线程 1 loop 12 Before Task.Yield
+2023-08-08 21:03:09.3689  End context handling
+2023-08-08 21:03:10.2208  Begin context handling
+2023-08-08 21:03:10.2208 (ETTask.cs:145) 当前线程 1 loop 12 After Task.Yield
+2023-08-08 21:03:10.2208 (ETTask.cs:145) 当前线程 1 loop 13 Before Task.Yield
+2023-08-08 21:03:10.2208  End context handling
+2023-08-08 21:03:11.7241  Begin context handling
+2023-08-08 21:03:11.7241 (ETTask.cs:145) 当前线程 1 loop 13 After Task.Yield
+2023-08-08 21:03:11.7241 (ETTask.cs:145) 当前线程 1 loop 14 Before Task.Yield
+2023-08-08 21:03:11.7241  End context handling
+2023-08-08 21:03:12.6794  Begin context handling
+2023-08-08 21:03:12.6794 (ETTask.cs:145) 当前线程 1 loop 14 After Task.Yield
+2023-08-08 21:03:12.6794 (ETTask.cs:145) 当前线程 1 loop 15 Before Task.Yield
+2023-08-08 21:03:12.6794  End context handling
+2023-08-08 21:03:14.2424  Begin context handling
+2023-08-08 21:03:14.2424 (ETTask.cs:145) 当前线程 1 loop 15 After Task.Yield
+2023-08-08 21:03:14.2424 (ETTask.cs:145) 当前线程 1 loop 16 Before Task.Yield
+2023-08-08 21:03:14.2424  End context handling
+2023-08-08 21:03:16.1043  Begin context handling
+2023-08-08 21:03:16.1043 (ETTask.cs:145) 当前线程 1 loop 16 After Task.Yield
+2023-08-08 21:03:16.1043 (ETTask.cs:145) 当前线程 1 loop 17 Before Task.Yield
+2023-08-08 21:03:16.1043  End context handling
+2023-08-08 21:03:17.3067  Begin context handling
+2023-08-08 21:03:17.3067 (ETTask.cs:145) 当前线程 1 loop 17 After Task.Yield
+2023-08-08 21:03:17.3067 (ETTask.cs:145) 当前线程 1 loop 18 Before Task.Yield
+2023-08-08 21:03:17.3067  End context handling
+2023-08-08 21:03:22.8345  Begin context handling
+2023-08-08 21:03:22.8345 (ETTask.cs:145) 当前线程 1 loop 18 After Task.Yield
+2023-08-08 21:03:22.8345 (ETTask.cs:145) 当前线程 1 loop 19 Before Task.Yield
+2023-08-08 21:03:22.8345  End context handling
+2023-08-08 21:03:24.1417  Begin context handling
+2023-08-08 21:03:24.1417 (ETTask.cs:145) 当前线程 1 loop 19 After Task.Yield
+2023-08-08 21:03:24.1417 (ETTask.cs:145) 当前线程 1 loop 20 Before Task.Yield
+2023-08-08 21:03:24.1417  End context handling
+2023-08-08 21:03:25.1645  Begin context handling
+2023-08-08 21:03:25.1645 (ETTask.cs:145) 当前线程 1 loop 20 After Task.Yield
+2023-08-08 21:03:25.1645 (ETTask.cs:145) 当前线程 1 loop 21 Before Task.Yield
+2023-08-08 21:03:25.1645  End context handling
+2023-08-08 21:03:25.9991  Begin context handling
+2023-08-08 21:03:25.9991 (ETTask.cs:145) 当前线程 1 loop 21 After Task.Yield
+2023-08-08 21:03:25.9991 (ETTask.cs:145) 当前线程 1 loop 22 Before Task.Yield
+2023-08-08 21:03:26.0007  End context handling
+2023-08-08 21:03:26.7759  Begin context handling
+2023-08-08 21:03:26.7759 (ETTask.cs:145) 当前线程 1 loop 22 After Task.Yield
+2023-08-08 21:03:26.7759 (ETTask.cs:145) 当前线程 1 loop 23 Before Task.Yield
+2023-08-08 21:03:26.7759  End context handling
+2023-08-08 21:03:27.6818  Begin context handling
+2023-08-08 21:03:27.6818 (ETTask.cs:145) 当前线程 1 loop 23 After Task.Yield
+2023-08-08 21:03:27.6818 (ETTask.cs:145) 当前线程 1 loop 24 Before Task.Yield
+2023-08-08 21:03:27.6818  End context handling
+2023-08-08 21:03:28.3927  Begin context handling
+2023-08-08 21:03:28.3927 (ETTask.cs:145) 当前线程 1 loop 24 After Task.Yield
+2023-08-08 21:03:28.3927 (ETTask.cs:145) 当前线程 1 loop 25 Before Task.Yield
+2023-08-08 21:03:28.3927  End context handling
+2023-08-08 21:03:29.2043  Begin context handling
+2023-08-08 21:03:29.2043 (ETTask.cs:145) 当前线程 1 loop 25 After Task.Yield
+2023-08-08 21:03:29.2043 (ETTask.cs:145) 当前线程 1 loop 26 Before Task.Yield
+2023-08-08 21:03:29.2043  End context handling
+2023-08-08 21:03:30.2207  Begin context handling
+2023-08-08 21:03:30.2207 (ETTask.cs:145) 当前线程 1 loop 26 After Task.Yield
+2023-08-08 21:03:30.2207 (ETTask.cs:145) 当前线程 1 loop 27 Before Task.Yield
+2023-08-08 21:03:30.2207  End context handling
+2023-08-08 21:03:31.3927  Begin context handling
+2023-08-08 21:03:31.3927 (ETTask.cs:145) 当前线程 1 loop 27 After Task.Yield
+2023-08-08 21:03:31.3927 (ETTask.cs:145) 当前线程 1 loop 28 Before Task.Yield
+2023-08-08 21:03:31.3927  End context handling
+2023-08-08 21:03:32.5383  Begin context handling
+2023-08-08 21:03:32.5383 (ETTask.cs:145) 当前线程 1 loop 28 After Task.Yield
+2023-08-08 21:03:32.5383 (ETTask.cs:145) 当前线程 1 loop 29 Before Task.Yield
+2023-08-08 21:03:32.5383  End context handling
+2023-08-08 21:03:33.6600  Begin context handling
+2023-08-08 21:03:33.6600 (ETTask.cs:145) 当前线程 1 loop 29 After Task.Yield
+2023-08-08 21:03:33.6600 (ETTask.cs:145) 当前线程 1 loop 30 Before Task.Yield
+2023-08-08 21:03:33.6600  End context handling
+2023-08-08 21:03:34.4576  Begin context handling
+2023-08-08 21:03:34.4576 (ETTask.cs:145) 当前线程 1 loop 30 After Task.Yield
+2023-08-08 21:03:34.4576 (ETTask.cs:145) 当前线程 1 loop 31 Before Task.Yield
+2023-08-08 21:03:34.4576  End context handling
+2023-08-08 21:03:35.2181  Begin context handling
+2023-08-08 21:03:35.2181 (ETTask.cs:145) 当前线程 1 loop 31 After Task.Yield
+2023-08-08 21:03:35.2181 (ETTask.cs:145) 当前线程 1 loop 32 Before Task.Yield
+2023-08-08 21:03:35.2181  End context handling
+2023-08-08 21:03:37.0364  Begin context handling
+2023-08-08 21:03:37.0364 (ETTask.cs:145) 当前线程 1 loop 32 After Task.Yield
+2023-08-08 21:03:37.0364 (ETTask.cs:145) 当前线程 1 loop 33 Before Task.Yield
+2023-08-08 21:03:37.0364  End context handling
+2023-08-08 21:03:37.6933  Begin context handling
+2023-08-08 21:03:37.6933 (ETTask.cs:145) 当前线程 1 loop 33 After Task.Yield
+2023-08-08 21:03:37.6933 (ETTask.cs:145) 当前线程 1 loop 34 Before Task.Yield
+2023-08-08 21:03:37.6933  End context handling
+2023-08-08 21:03:38.5305  Begin context handling
+2023-08-08 21:03:38.5305 (ETTask.cs:145) 当前线程 1 loop 34 After Task.Yield
+2023-08-08 21:03:38.5305 (ETTask.cs:145) 当前线程 1 loop 35 Before Task.Yield
+2023-08-08 21:03:38.5315  End context handling
+2023-08-08 21:04:52.4114  test
+2023-08-08 21:04:52.4314 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:04:54.1024  Begin context handling
+2023-08-08 21:04:54.1024 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:04:54.1024 (ETTask.cs:145) 还差 -328 延迟2000
+2023-08-08 21:04:54.1024 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:04:54.1024  End context handling
+2023-08-08 21:04:55.7994  Begin context handling
+2023-08-08 21:04:55.7994 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:04:55.7994 (ETTask.cs:145) 还差 369 延迟2000
+2023-08-08 21:04:55.7994 (ETTask.cs:145) 当前线程 1 loop 2 Before Task.Yield
+2023-08-08 21:04:55.7994  End context handling
+2023-08-08 21:04:56.7563  Begin context handling
+2023-08-08 21:04:56.7563 (ETTask.cs:145) 当前线程 1 loop 2 After Task.Yield
+2023-08-08 21:04:56.7563 (ETTask.cs:145) 还差 326 延迟2000
+2023-08-08 21:04:56.7563 (ETTask.cs:145) 当前线程 1 loop 3 Before Task.Yield
+2023-08-08 21:04:56.7563  End context handling
+2023-08-08 21:04:57.5324  Begin context handling
+2023-08-08 21:04:57.5324 (ETTask.cs:145) 当前线程 1 loop 3 After Task.Yield
+2023-08-08 21:04:57.5324 (ETTask.cs:145) 还差 102 延迟2000
+2023-08-08 21:04:57.5324 (ETTask.cs:145) 当前线程 1 loop 4 Before Task.Yield
+2023-08-08 21:04:57.5324  End context handling
+2023-08-08 21:04:58.4994  Begin context handling
+2023-08-08 21:04:58.4994 (ETTask.cs:145) 当前线程 1 loop 4 After Task.Yield
+2023-08-08 21:04:58.4994 (ETTask.cs:145) 还差 69 延迟2000
+2023-08-08 21:04:58.4994 (ETTask.cs:145) 当前线程 1 loop 5 Before Task.Yield
+2023-08-08 21:04:58.4994  End context handling
+2023-08-08 21:05:04.0471  Begin context handling
+2023-08-08 21:05:04.0471 (ETTask.cs:145) 当前线程 1 loop 5 After Task.Yield
+2023-08-08 21:05:04.0471 (ETTask.cs:145) 还差 -383 延迟2000
+2023-08-08 21:05:04.0471 (ETTask.cs:145) 当前线程 1 loop 6 Before Task.Yield
+2023-08-08 21:05:04.0471  End context handling
+2023-08-08 21:05:05.3659  Begin context handling
+2023-08-08 21:05:05.3659 (ETTask.cs:145) 当前线程 1 loop 6 After Task.Yield
+2023-08-08 21:05:05.3659 (ETTask.cs:145) 还差 -64 延迟2000
+2023-08-08 21:05:05.3659 (ETTask.cs:145) 当前线程 1 loop 7 Before Task.Yield
+2023-08-08 21:05:05.3659  End context handling
+2023-08-08 21:05:06.1106  Begin context handling
+2023-08-08 21:05:06.1106 (ETTask.cs:145) 当前线程 1 loop 7 After Task.Yield
+2023-08-08 21:05:06.1106 (ETTask.cs:145) 还差 -320 延迟2000
+2023-08-08 21:05:06.1106 (ETTask.cs:145) 当前线程 1 loop 8 Before Task.Yield
+2023-08-08 21:05:06.1106  End context handling
+2023-08-08 21:05:06.8483  Begin context handling
+2023-08-08 21:05:06.8483 (ETTask.cs:145) 当前线程 1 loop 8 After Task.Yield
+2023-08-08 21:05:06.8483 (ETTask.cs:145) 还差 418 延迟2000
+2023-08-08 21:05:06.8483 (ETTask.cs:145) 当前线程 1 loop 9 Before Task.Yield
+2023-08-08 21:05:06.8483  End context handling
+2023-08-08 21:05:07.8132  Begin context handling
+2023-08-08 21:05:07.8132 (ETTask.cs:145) 当前线程 1 loop 9 After Task.Yield
+2023-08-08 21:05:07.8132 (ETTask.cs:145) 还差 383 延迟2000
+2023-08-08 21:05:07.8132 (ETTask.cs:145) 当前线程 1 loop 10 Before Task.Yield
+2023-08-08 21:05:07.8132  End context handling
+2023-08-08 21:05:08.6547  Begin context handling
+2023-08-08 21:05:08.6547 (ETTask.cs:145) 当前线程 1 loop 10 After Task.Yield
+2023-08-08 21:05:08.6547 (ETTask.cs:145) 还差 224 延迟2000
+2023-08-08 21:05:08.6547 (ETTask.cs:145) 当前线程 1 loop 11 Before Task.Yield
+2023-08-08 21:05:08.6547  End context handling
+2023-08-08 21:05:16.1068  Begin context handling
+2023-08-08 21:05:16.1068 (ETTask.cs:145) 当前线程 1 loop 11 After Task.Yield
+2023-08-08 21:05:16.1068 (ETTask.cs:145) 还差 -324 延迟2000
+2023-08-08 21:05:16.1068 (ETTask.cs:145) 当前线程 1 loop 12 Before Task.Yield
+2023-08-08 21:05:16.1068  End context handling
+2023-08-08 21:05:17.2138  Begin context handling
+2023-08-08 21:05:17.2138 (ETTask.cs:145) 当前线程 1 loop 12 After Task.Yield
+2023-08-08 21:05:17.2138 (ETTask.cs:145) 还差 -217 延迟2000
+2023-08-08 21:05:17.2138 (ETTask.cs:145) 当前线程 1 loop 13 Before Task.Yield
+2023-08-08 21:05:17.2138  End context handling
+2023-08-08 21:05:18.5305  Begin context handling
+2023-08-08 21:05:18.5305 (ETTask.cs:145) 当前线程 1 loop 13 After Task.Yield
+2023-08-08 21:05:18.5305 (ETTask.cs:145) 还差 100 延迟2000
+2023-08-08 21:05:18.5305 (ETTask.cs:145) 当前线程 1 loop 14 Before Task.Yield
+2023-08-08 21:05:18.5316  End context handling
+2023-08-08 21:05:19.4274  Begin context handling
+2023-08-08 21:05:19.4274 (ETTask.cs:145) 当前线程 1 loop 14 After Task.Yield
+2023-08-08 21:05:19.4274 (ETTask.cs:145) 还差 -3 延迟2000
+2023-08-08 21:05:19.4274 (ETTask.cs:145) 当前线程 1 loop 15 Before Task.Yield
+2023-08-08 21:05:19.4274  End context handling
+2023-08-08 21:07:07.6856  test
+2023-08-08 21:07:07.7055 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:07:11.0405  Begin context handling
+2023-08-08 21:07:11.0405 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:07:11.0405 (ETTask.cs:145) 还差 14 延迟2000 起始27
+2023-08-08 21:07:11.0405 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:07:11.0405  End context handling
+2023-08-08 21:07:16.7395  Begin context handling
+2023-08-08 21:07:16.7395 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:07:16.7395 (ETTask.cs:145) 还差 712 延迟2000 起始27
+2023-08-08 21:07:16.7395 (ETTask.cs:145) 当前线程 1 loop 2 Before Task.Yield
+2023-08-08 21:07:16.7395  End context handling
+2023-08-08 21:07:17.7157  Begin context handling
+2023-08-08 21:07:17.7157 (ETTask.cs:145) 当前线程 1 loop 2 After Task.Yield
+2023-08-08 21:07:17.7157 (ETTask.cs:145) 还差 688 延迟2000 起始27
+2023-08-08 21:07:17.7157 (ETTask.cs:145) 当前线程 1 loop 3 Before Task.Yield
+2023-08-08 21:07:17.7157  End context handling
+2023-08-08 21:07:18.5823  Begin context handling
+2023-08-08 21:07:18.5823 (ETTask.cs:145) 当前线程 1 loop 3 After Task.Yield
+2023-08-08 21:07:18.5823 (ETTask.cs:145) 还差 555 延迟2000 起始27
+2023-08-08 21:07:18.5823 (ETTask.cs:145) 当前线程 1 loop 4 Before Task.Yield
+2023-08-08 21:07:18.5823  End context handling
+2023-08-08 21:07:19.5489  Begin context handling
+2023-08-08 21:07:19.5489 (ETTask.cs:145) 当前线程 1 loop 4 After Task.Yield
+2023-08-08 21:07:19.5489 (ETTask.cs:145) 还差 522 延迟2000 起始27
+2023-08-08 21:07:19.5489 (ETTask.cs:145) 当前线程 1 loop 5 Before Task.Yield
+2023-08-08 21:07:19.5489  End context handling
+2023-08-08 21:07:20.4792  Begin context handling
+2023-08-08 21:07:20.4792 (ETTask.cs:145) 当前线程 1 loop 5 After Task.Yield
+2023-08-08 21:07:20.4792 (ETTask.cs:145) 还差 452 延迟2000 起始27
+2023-08-08 21:07:20.4792 (ETTask.cs:145) 当前线程 1 loop 6 Before Task.Yield
+2023-08-08 21:07:20.4792  End context handling
+2023-08-08 21:07:21.2573  Begin context handling
+2023-08-08 21:07:21.2573 (ETTask.cs:145) 当前线程 1 loop 6 After Task.Yield
+2023-08-08 21:07:21.2573 (ETTask.cs:145) 还差 230 延迟2000 起始27
+2023-08-08 21:07:21.2573 (ETTask.cs:145) 当前线程 1 loop 7 Before Task.Yield
+2023-08-08 21:07:21.2573  End context handling
+2023-08-08 21:07:22.0685  Begin context handling
+2023-08-08 21:07:22.0685 (ETTask.cs:145) 当前线程 1 loop 7 After Task.Yield
+2023-08-08 21:07:22.0685 (ETTask.cs:145) 还差 41 延迟2000 起始27
+2023-08-08 21:07:22.0685 (ETTask.cs:145) 当前线程 1 loop 8 Before Task.Yield
+2023-08-08 21:07:22.0685  End context handling
+2023-08-08 21:07:22.8885  Begin context handling
+2023-08-08 21:07:22.8885 (ETTask.cs:145) 当前线程 1 loop 8 After Task.Yield
+2023-08-08 21:07:22.8885 (ETTask.cs:145) 还差 861 延迟2000 起始27
+2023-08-08 21:07:22.8885 (ETTask.cs:145) 当前线程 1 loop 9 Before Task.Yield
+2023-08-08 21:07:22.8885  End context handling
+2023-08-08 21:07:23.9957  Begin context handling
+2023-08-08 21:07:23.9957 (ETTask.cs:145) 当前线程 1 loop 9 After Task.Yield
+2023-08-08 21:07:23.9957 (ETTask.cs:145) 还差 968 延迟2000 起始27
+2023-08-08 21:07:23.9957 (ETTask.cs:145) 当前线程 1 loop 10 Before Task.Yield
+2023-08-08 21:07:23.9957  End context handling
+2023-08-08 21:07:24.6560  Begin context handling
+2023-08-08 21:07:24.6560 (ETTask.cs:145) 当前线程 1 loop 10 After Task.Yield
+2023-08-08 21:07:24.6567 (ETTask.cs:145) 还差 629 延迟2000 起始27
+2023-08-08 21:07:24.6567 (ETTask.cs:145) 当前线程 1 loop 11 Before Task.Yield
+2023-08-08 21:07:24.6567  End context handling
+2023-08-08 21:07:25.3520  Begin context handling
+2023-08-08 21:07:25.3520 (ETTask.cs:145) 当前线程 1 loop 11 After Task.Yield
+2023-08-08 21:07:25.3520 (ETTask.cs:145) 还差 325 延迟2000 起始27
+2023-08-08 21:07:25.3520 (ETTask.cs:145) 当前线程 1 loop 12 Before Task.Yield
+2023-08-08 21:07:25.3520  End context handling
+2023-08-08 21:07:26.2785  Begin context handling
+2023-08-08 21:07:26.2785 (ETTask.cs:145) 当前线程 1 loop 12 After Task.Yield
+2023-08-08 21:07:26.2785 (ETTask.cs:145) 还差 251 延迟2000 起始27
+2023-08-08 21:07:26.2785 (ETTask.cs:145) 当前线程 1 loop 13 Before Task.Yield
+2023-08-08 21:07:26.2785  End context handling
+2023-08-08 21:07:27.6460  Begin context handling
+2023-08-08 21:07:27.6460 (ETTask.cs:145) 当前线程 1 loop 13 After Task.Yield
+2023-08-08 21:07:27.6460 (ETTask.cs:145) 还差 619 延迟2000 起始27
+2023-08-08 21:07:27.6460 (ETTask.cs:145) 当前线程 1 loop 14 Before Task.Yield
+2023-08-08 21:07:27.6460  End context handling
+2023-08-08 21:07:28.5318  Begin context handling
+2023-08-08 21:07:28.5318 (ETTask.cs:145) 当前线程 1 loop 14 After Task.Yield
+2023-08-08 21:07:28.5318 (ETTask.cs:145) 还差 505 延迟2000 起始27
+2023-08-08 21:07:28.5318 (ETTask.cs:145) 当前线程 1 loop 15 Before Task.Yield
+2023-08-08 21:07:28.5318  End context handling
+2023-08-08 21:11:49.0969  test
+2023-08-08 21:11:49.1188 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:11:50.4372  Begin context handling
+2023-08-08 21:11:50.4391 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:11:50.4391 (ETTask.cs:145) 还差 319 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:50.4391 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:11:50.4391  End context handling
+2023-08-08 21:11:56.6216  Begin context handling
+2023-08-08 21:11:56.6216 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:11:56.6216 (ETTask.cs:145) 还差 503 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:56.6216 (ETTask.cs:145) 当前线程 1 loop 2 Before Task.Yield
+2023-08-08 21:11:56.6216  End context handling
+2023-08-08 21:11:57.3794  Begin context handling
+2023-08-08 21:11:57.3794 (ETTask.cs:145) 当前线程 1 loop 2 After Task.Yield
+2023-08-08 21:11:57.3794 (ETTask.cs:145) 还差 261 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:57.3794 (ETTask.cs:145) 当前线程 1 loop 3 Before Task.Yield
+2023-08-08 21:11:57.3794  End context handling
+2023-08-08 21:11:58.0285  Begin context handling
+2023-08-08 21:11:58.0285 (ETTask.cs:145) 当前线程 1 loop 3 After Task.Yield
+2023-08-08 21:11:58.0285 (ETTask.cs:145) 还差 910 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:58.0285 (ETTask.cs:145) 当前线程 1 loop 4 Before Task.Yield
+2023-08-08 21:11:58.0285  End context handling
+2023-08-08 21:11:58.6696  Begin context handling
+2023-08-08 21:11:58.6696 (ETTask.cs:145) 当前线程 1 loop 4 After Task.Yield
+2023-08-08 21:11:58.6696 (ETTask.cs:145) 还差 551 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:58.6696 (ETTask.cs:145) 当前线程 1 loop 5 Before Task.Yield
+2023-08-08 21:11:58.6696  End context handling
+2023-08-08 21:11:59.2805  Begin context handling
+2023-08-08 21:11:59.2805 (ETTask.cs:145) 当前线程 1 loop 5 After Task.Yield
+2023-08-08 21:11:59.2815 (ETTask.cs:145) 还差 162 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:59.2815 (ETTask.cs:145) 当前线程 1 loop 6 Before Task.Yield
+2023-08-08 21:11:59.2815  End context handling
+2023-08-08 21:11:59.9067  Begin context handling
+2023-08-08 21:11:59.9067 (ETTask.cs:145) 当前线程 1 loop 6 After Task.Yield
+2023-08-08 21:11:59.9067 (ETTask.cs:145) 还差 788 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:11:59.9067 (ETTask.cs:145) 当前线程 1 loop 7 Before Task.Yield
+2023-08-08 21:11:59.9067  End context handling
+2023-08-08 21:12:00.5347  Begin context handling
+2023-08-08 21:12:00.5347 (ETTask.cs:145) 当前线程 1 loop 7 After Task.Yield
+2023-08-08 21:12:00.5347 (ETTask.cs:145) 还差 416 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:00.5347 (ETTask.cs:145) 当前线程 1 loop 8 Before Task.Yield
+2023-08-08 21:12:00.5347  End context handling
+2023-08-08 21:12:01.1841  Begin context handling
+2023-08-08 21:12:01.1841 (ETTask.cs:145) 当前线程 1 loop 8 After Task.Yield
+2023-08-08 21:12:01.1841 (ETTask.cs:145) 还差 65 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:01.1841 (ETTask.cs:145) 当前线程 1 loop 9 Before Task.Yield
+2023-08-08 21:12:01.1841  End context handling
+2023-08-08 21:12:01.8097  Begin context handling
+2023-08-08 21:12:01.8097 (ETTask.cs:145) 当前线程 1 loop 9 After Task.Yield
+2023-08-08 21:12:01.8097 (ETTask.cs:145) 还差 691 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:01.8097 (ETTask.cs:145) 当前线程 1 loop 10 Before Task.Yield
+2023-08-08 21:12:01.8097  End context handling
+2023-08-08 21:12:02.4509  Begin context handling
+2023-08-08 21:12:02.4509 (ETTask.cs:145) 当前线程 1 loop 10 After Task.Yield
+2023-08-08 21:12:02.4509 (ETTask.cs:145) 还差 332 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:02.4509 (ETTask.cs:145) 当前线程 1 loop 11 Before Task.Yield
+2023-08-08 21:12:02.4509  End context handling
+2023-08-08 21:12:03.1217  Begin context handling
+2023-08-08 21:12:03.1217 (ETTask.cs:145) 当前线程 1 loop 11 After Task.Yield
+2023-08-08 21:12:03.1217 (ETTask.cs:145) 还差 3 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:03.1217 (ETTask.cs:145) 当前线程 1 loop 12 Before Task.Yield
+2023-08-08 21:12:03.1217  End context handling
+2023-08-08 21:12:03.8725  Begin context handling
+2023-08-08 21:12:03.8725 (ETTask.cs:145) 当前线程 1 loop 12 After Task.Yield
+2023-08-08 21:12:03.8725 (ETTask.cs:145) 还差 754 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:03.8725 (ETTask.cs:145) 当前线程 1 loop 13 Before Task.Yield
+2023-08-08 21:12:03.8725  End context handling
+2023-08-08 21:12:04.5938  Begin context handling
+2023-08-08 21:12:04.5946 (ETTask.cs:145) 当前线程 1 loop 13 After Task.Yield
+2023-08-08 21:12:04.5946 (ETTask.cs:145) 还差 475 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:04.5946 (ETTask.cs:145) 当前线程 1 loop 14 Before Task.Yield
+2023-08-08 21:12:04.5946  End context handling
+2023-08-08 21:12:05.3803  Begin context handling
+2023-08-08 21:12:05.3803 (ETTask.cs:145) 当前线程 1 loop 14 After Task.Yield
+2023-08-08 21:12:05.3803 (ETTask.cs:145) 还差 261 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:05.3803 (ETTask.cs:145) 当前线程 1 loop 15 Before Task.Yield
+2023-08-08 21:12:05.3803  End context handling
+2023-08-08 21:12:06.2021  Begin context handling
+2023-08-08 21:12:06.2021 (ETTask.cs:145) 当前线程 1 loop 15 After Task.Yield
+2023-08-08 21:12:06.2021 (ETTask.cs:145) 还差 83 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:06.2021 (ETTask.cs:145) 当前线程 1 loop 16 Before Task.Yield
+2023-08-08 21:12:06.2021  End context handling
+2023-08-08 21:12:06.8928  Begin context handling
+2023-08-08 21:12:06.8928 (ETTask.cs:145) 当前线程 1 loop 16 After Task.Yield
+2023-08-08 21:12:06.8928 (ETTask.cs:145) 还差 774 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:06.8928 (ETTask.cs:145) 当前线程 1 loop 17 Before Task.Yield
+2023-08-08 21:12:06.8928  End context handling
+2023-08-08 21:12:07.5853  Begin context handling
+2023-08-08 21:12:07.5853 (ETTask.cs:145) 当前线程 1 loop 17 After Task.Yield
+2023-08-08 21:12:07.5853 (ETTask.cs:145) 还差 466 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:07.5853 (ETTask.cs:145) 当前线程 1 loop 18 Before Task.Yield
+2023-08-08 21:12:07.5853  End context handling
+2023-08-08 21:12:10.2979  Begin context handling
+2023-08-08 21:12:10.2979 (ETTask.cs:145) 当前线程 1 loop 18 After Task.Yield
+2023-08-08 21:12:10.2979 (ETTask.cs:145) 还差 179 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:10.2979 (ETTask.cs:145) 当前线程 1 loop 19 Before Task.Yield
+2023-08-08 21:12:10.2979  End context handling
+2023-08-08 21:12:17.8251  Begin context handling
+2023-08-08 21:12:17.8251 (ETTask.cs:145) 当前线程 1 loop 19 After Task.Yield
+2023-08-08 21:12:17.8251 (ETTask.cs:145) 还差 706 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:17.8251 (ETTask.cs:145) 当前线程 1 loop 20 Before Task.Yield
+2023-08-08 21:12:17.8251  End context handling
+2023-08-08 21:12:18.5564  Begin context handling
+2023-08-08 21:12:18.5564 (ETTask.cs:145) 当前线程 1 loop 20 After Task.Yield
+2023-08-08 21:12:18.5564 (ETTask.cs:145) 还差 437 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:18.5564 (ETTask.cs:145) 当前线程 1 loop 21 Before Task.Yield
+2023-08-08 21:12:18.5564  End context handling
+2023-08-08 21:12:19.2238  Begin context handling
+2023-08-08 21:12:19.2238 (ETTask.cs:145) 当前线程 1 loop 21 After Task.Yield
+2023-08-08 21:12:19.2238 (ETTask.cs:145) 还差 105 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:19.2238 (ETTask.cs:145) 当前线程 1 loop 22 Before Task.Yield
+2023-08-08 21:12:19.2238  End context handling
+2023-08-08 21:12:19.9454  Begin context handling
+2023-08-08 21:12:19.9454 (ETTask.cs:145) 当前线程 1 loop 22 After Task.Yield
+2023-08-08 21:12:19.9454 (ETTask.cs:145) 还差 826 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:19.9454 (ETTask.cs:145) 当前线程 1 loop 23 Before Task.Yield
+2023-08-08 21:12:19.9454  End context handling
+2023-08-08 21:12:20.6358  Begin context handling
+2023-08-08 21:12:20.6358 (ETTask.cs:145) 当前线程 1 loop 23 After Task.Yield
+2023-08-08 21:12:20.6358 (ETTask.cs:145) 还差 517 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:20.6358 (ETTask.cs:145) 当前线程 1 loop 24 Before Task.Yield
+2023-08-08 21:12:20.6358  End context handling
+2023-08-08 21:12:21.2412  Begin context handling
+2023-08-08 21:12:21.2412 (ETTask.cs:145) 当前线程 1 loop 24 After Task.Yield
+2023-08-08 21:12:21.2412 (ETTask.cs:145) 还差 122 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:21.2412 (ETTask.cs:145) 当前线程 1 loop 25 Before Task.Yield
+2023-08-08 21:12:21.2412  End context handling
+2023-08-08 21:12:21.8327  Begin context handling
+2023-08-08 21:12:21.8327 (ETTask.cs:145) 当前线程 1 loop 25 After Task.Yield
+2023-08-08 21:12:21.8327 (ETTask.cs:145) 还差 714 延迟2000 起始2023-08-08 21:11:49
+2023-08-08 21:12:21.8327 (ETTask.cs:145) 当前线程 1 loop 26 Before Task.Yield
+2023-08-08 21:12:21.8327  End context handling
+2023-08-08 21:16:47.2080  test
+2023-08-08 21:16:47.2276 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:16:48.1788  Begin context handling
+2023-08-08 21:16:48.1788 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:16:48.1788 (ETTask.cs:145) 还差 953 延迟2000 起始1691500607227
+2023-08-08 21:16:48.1788 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:16:48.1788  End context handling
+2023-08-08 21:16:49.6269  Begin context handling
+2023-08-08 21:16:49.6269 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:16:49.6269 (ETTask.cs:145) 还差 2400 延迟2000 起始1691500607227
+2023-08-08 21:16:49.6269 (ETTask.cs:145) 当前线程 1 loop 2 退出循环
+2023-08-08 21:16:49.6269  Continue末 线程:1
+2023-08-08 21:16:49.6269  End context handling
+2023-08-08 21:16:52.1308  Begin context handling
+2023-08-08 21:16:52.1308  End context handling
+2023-08-08 21:19:42.3434  test
+2023-08-08 21:19:42.3628 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:19:44.2217  Begin context handling
+2023-08-08 21:19:44.2217 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:19:44.2217 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:19:44.2217  End context handling
+2023-08-08 21:33:31.3449  test
+2023-08-08 21:33:31.3647 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:33:32.6337  Begin context handling
+2023-08-08 21:33:32.6337 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:33:32.6337 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:33:32.6337  End context handling
+2023-08-08 21:33:34.1471  Begin context handling
+2023-08-08 21:33:34.1471 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:33:34.1471 (ETTask.cs:145) 当前线程 1 loop 2 退出循环
+2023-08-08 21:33:34.1471  Continue末 线程:1
+2023-08-08 21:33:34.1471  End context handling
+2023-08-08 21:33:35.1325  Begin context handling
+2023-08-08 21:33:35.1325  End context handling
+2023-08-08 21:33:36.3899  Begin context handling
+2023-08-08 21:33:36.3899  End context handling
+2023-08-08 21:50:53.9578  test
+2023-08-08 21:50:53.9808 (AsyncETTaskMethodBuilder.cs:57) 当前线程 1 loop 0 Before Task.Yield
+2023-08-08 21:50:55.8283  Begin context handling
+2023-08-08 21:50:55.8283 (ETTask.cs:145) 当前线程 1 loop 0 After Task.Yield
+2023-08-08 21:50:55.8283 (ETTask.cs:145) 当前线程 1 loop 1 Before Task.Yield
+2023-08-08 21:50:55.8283  End context handling
+2023-08-08 21:50:58.4667  Begin context handling
+2023-08-08 21:50:58.4667 (ETTask.cs:145) 当前线程 1 loop 1 After Task.Yield
+2023-08-08 21:50:58.4667 (ETTask.cs:145) 当前线程 1 loop 2 退出循环
+2023-08-08 21:50:58.4667  Continue末 线程:1
+2023-08-08 21:50:58.4667  End context handling
+2023-08-08 21:50:59.6153  Begin context handling
+2023-08-08 21:50:59.6153  End context handling
